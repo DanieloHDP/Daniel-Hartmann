@@ -1,2 +1,1 @@
-
 ![](Bilder/Bild Daniel.jpg)
