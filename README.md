@@ -2,4 +2,4 @@
 
 Lebenslauf:
 
-![Daniel.jpg]()
+![Bild Daniel.jpg]()
