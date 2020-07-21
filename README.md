@@ -2,3 +2,4 @@
 
 Lebenslauf:
 
+![Daniel.jpg]()
