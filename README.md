@@ -1,5 +1,5 @@
 
  
- ![)(Bilder/Bild Daniel.jpg)
+ ![](bilder/Bild Daniel.jpg)
 
- ![](Bilder/Discord Bild.png)
+ ![](bilder/Discord Bild.png)
