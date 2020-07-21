@@ -2,4 +2,4 @@
  
  ![](bilder/Bild Daniel.jpg)
 
- ![](bilder/Discord Bild.png)
+ ![](Bilder/Discord-Bild.png)
