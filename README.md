@@ -1,3 +1,3 @@
-<img src="Bilder/Discord-Bild.png" width= "300" > 
-
+<img src="Bilder/Discord-Bild.png" width= "300" height= "100" > 
+<img src="Bilder/Discord-Bild.png" width= "300" height= "100" > 
 
