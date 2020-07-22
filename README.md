@@ -9,5 +9,5 @@ Meine Lebenslauf
 </p>
 <button class="btn-primary" type="button">Mail</button>
 <a class="btn-primary" href="#url" role="button">https://web.de/</a>
-<button class="btn btn-outline" type="button">Outline button</button>
-<button class="btn btn-sm btn-outline" type="button">Outline button</button>
+<button class="btn btn-outline" type="button">Mail</button>
+
