@@ -7,5 +7,5 @@ Meine Lebenslauf
 <p align="center">
 <img src="Bilder/Discord-Bild.png" width= "300" > 
 </p>
-<button class="btn" type="button">Mail</button>
+<button class="btn-primary" type="button">Mail</button>
 <a class="btn" href="#url" role="button">https://web.de/</a>
