@@ -1,5 +1,5 @@
 
  
-<img src="Bilder/Discord-Bild.png" >
+<img src="Bilder/Discord-Bild.png" width = "10" >
 
 
