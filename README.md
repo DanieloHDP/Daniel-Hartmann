@@ -9,6 +9,8 @@ Meine Lebenslauf
 </p>
 <button class="btn-primary" type="button">Mail</button>
 
-<img src="Bilder/BildDaniel1.png" width= "300" align="right" >
+<img src="Bilder/BildDaniel1.png" width= "300" align="left" >
+Daniel Hartmann 19.02.2001
+Geburtsort: Stuttgart
 
 
