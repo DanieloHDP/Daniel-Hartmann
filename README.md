@@ -9,6 +9,6 @@ Meine Lebenslauf
 </p>
 <button class="btn-primary" type="button">Mail</button>
 
-
+<img src="Bilder/BildDaniel1.png" width= "300" align="right" >
 
 
