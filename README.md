@@ -19,7 +19,7 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 ```
 **Mein Leben:**
 
-<img src="Bilder/Abiball.png" width= "135" align="right" >
+<img src="Bilder/Abiball.png" width= "130" align="right" >
 
 ```
 19 Februar 2001: Geboren in Stuttgart
