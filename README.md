@@ -3,7 +3,7 @@
 
 
 
-```
+
 **Daniel Hartmann**
 
 Krotenäckerweg 11/1, 71069 Sindelfingen
@@ -11,7 +11,7 @@ Krotenäckerweg 11/1, 71069 Sindelfingen
 Telefon: *01575 5766789*
 
 Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
-```
+
 
  
  
@@ -21,6 +21,7 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 
 **Mein Leben:**
 
+```
 19 Februar 2001: Geboren in Stuttgart
 
            2002: Umzug nach Maichingen/Sindelfingen
@@ -34,7 +35,7 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
       Juli 2019: Schulabschluss (Abitur)
       
           heute: Ausbildungssuchend
-          
+```          
 
 
 Meine Interessen:
