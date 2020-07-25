@@ -40,9 +40,16 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 
 **Meine Interessen:**
 
-
 <p align="center">
 <img src="Bilder/Wandern.png" width= "200" > 
+ -Wandern
+ -Skifahren
+ -Schach
+ Arbeiten am Pc:
+  -Arduino
+  -Unreal Engine
+  -Java
+  
 
 
 
