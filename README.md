@@ -1,5 +1,5 @@
 
-<img src="Bilder/BildDaniel1.png" width= "220" align="left" >
+<img src="Bilder/BildDaniel1.png" width= "250" align="left" >
 
 
 
@@ -13,18 +13,8 @@ Telefon: *01575 5766789*
 Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 
 
-
-
-
-
-
-
-
-
-
-
-
 **Mein Leben:**
+
 19 Februar 2001: Geboren in Stuttgart
 
            2002: Umzug nach Maichingen/Sindelfingen
