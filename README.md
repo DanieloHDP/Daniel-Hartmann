@@ -19,6 +19,8 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 ```
 **Mein Leben:**
 
+<img src="Bilder/Abiball.png" width= "150" align="right" >
+
 ```
 19 Februar 2001: Geboren in Stuttgart
 
@@ -29,12 +31,12 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
  September 2011: Einschulung am Gymnasium Unterrieden
  
        Mai 2015: Konfirmation in der Laurentiuskirche in Maichingen
-       
+ 
       Juli 2019: Schulabschluss (Abitur)
      
           heute: Ausbildungssuchend
-```          
-<img src="Bilder/Abiball.png" width= "180" align="right" >
+```       
+
 
 **Meine Interessen:**
 
