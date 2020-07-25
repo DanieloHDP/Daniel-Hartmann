@@ -1,4 +1,4 @@
-##Daniel Hartmann
+
 <img src="Bilder/BildDaniel1.png" width= "300" align="left" >
 
 
@@ -19,7 +19,9 @@ Mail daniel_p_hartmann@web.de
 <img src="Bilder/Discord-Bild.png" width= "300" > 
 </p>
 <button class="btn-primary" type="button">Mail</button>
-
+body {
+font-family: Georgia, "Arial", serif;
+}
 
 
 
