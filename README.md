@@ -56,6 +56,15 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
   
   -Java
   
+  
+  
+  **Andere Leistungen:**
+  
+  Einwöchiges Praktikum bei der Kfz-Werkstatt Kühne
+  
+  Mathe Preis 
+  
+  
 
 
 
