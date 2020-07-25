@@ -37,7 +37,8 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 ```          
 
 
-Meine Interessen:
+**Meine Interessen:**
+
 
 <img src="" width= "300" align="right" > 
 <img src="" height= "150" align="left"> 
