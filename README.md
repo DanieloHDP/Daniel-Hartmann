@@ -31,10 +31,10 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
        Mai 2015: Konfirmation in der Laurentiuskirche in Maichingen
        
       Juli 2019: Schulabschluss (Abitur)
-      
+     
           heute: Ausbildungssuchend
 ```          
-
+<img src="Bilder/Abiball.png" width= "180" align="right" >
 
 **Meine Interessen:**
 
