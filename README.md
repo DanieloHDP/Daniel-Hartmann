@@ -41,10 +41,8 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 **Meine Interessen:**
 
 
-<img src="" width= "300" align="right" > 
-<img src="" height= "150" align="left"> 
 <p align="center">
-<img src="" width= "300" > 
+<img src="Wandern.png" width= "200" > 
 
 
 
