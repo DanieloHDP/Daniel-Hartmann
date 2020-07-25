@@ -30,7 +30,7 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
  
  September 2011: Einschulung am Gymnasium Unterrieden
  
-       Mai 2015: Konfirmation in der Laurentiuskirche in Maichingen
+       Mai 2015: Konfirmation in der Laurentiuskirche/Maichingen
  
       Juli 2019: Schulabschluss (Abitur)
      
