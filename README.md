@@ -3,10 +3,11 @@
 
 
 
-Daniel Hartmann 19.02.2001
+##Daniel Hartmann 
+Krotenäckerweg 11/1, 71069 Sindelfingen
+Telefon 01575 5766789
+Mail daniel_p_hartmann@web.de
 
-
-Geburtsort: Stuttgart
 
 <img src="Bilder/Discord-Bild.png" width= "300" align="right" > 
 <img src="Bilder/Discord-Bild.png" height= "150" align="left"> 
