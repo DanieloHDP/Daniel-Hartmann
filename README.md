@@ -23,8 +23,6 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 
 ```
 19 Februar 2001: Geboren in Stuttgart
-
-           2002: Umzug nach Maichingen/Sindelfingen
            
  September 2007: Einschulung an der Grundschule Hinterweil
  
