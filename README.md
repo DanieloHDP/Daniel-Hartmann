@@ -70,7 +70,7 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
   
   **Andere Leistungen:**
   
-  <img src="Bilder/Wandern.png" width= "200" align="right" > 
+  <img src="Bilder/Mathepreis.png" width= "200" align="right" > 
   ```
   -Einwöchiges Praktikum bei der Kfz-Werkstatt Kühne
   
