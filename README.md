@@ -40,6 +40,7 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 
 IT-Bereich:
  <img src="Bilder/Arduino.png" width= "180" align="right" > 
+ ```
 - Programmiersprache BASIC, erste Einblicke in den Möglichkeiten 
   der Informatik
 
@@ -48,10 +49,8 @@ IT-Bereich:
 - Programmiersprache Arduino, zusammenbauen und programmieren 
   eines selbstfahrenden Autos
 
-
-
 - Unreal Engine, programmieren eigener Spiele (Jump and Run, RPG-Game)
-
+```
 
 
 **Meine Interessen:**
