@@ -35,27 +35,24 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
           heute: Ausbildungssuchend im Bereich Informatik
 ```       
 
-**Meine Qualifikationen**
+**Meine Qualifikationen im IT-Bereich:**
 
-
-IT-Bereich:
  <img src="Bilder/Arduino.png" width= "180" align="right" > 
  ```
-- Programmiersprache BASIC, erste Einblicke in den Möglichkeiten 
-  der Informatik
+- Programmiersprache BASIC, erste Einblicke in den 
+  Möglichkeiten der Informatik
 
 - Programmiersprache Java, erstellen von eigenen Projekten
 
-- Programmiersprache Arduino, zusammenbauen und programmieren 
-  eines selbstfahrenden Autos
+- Programmiersprache Arduino, zusammenbauen und 
+  programmieren eines selbstfahrenden Autos
 
-- Unreal Engine, programmieren eigener Spiele (Jump and Run, RPG-Game)
+- Unreal Engine, programmieren eigener Spiele 
+  (Jump and Run, RPG-Game)
 ```
 
 
 **Meine Interessen:**
-
-
 
  -Wandern
            
@@ -63,13 +60,6 @@ IT-Bereich:
  
  -Schach
  
- Arbeiten am Pc:
- 
-  -Arduino
-  
-  -Unreal Engine
-  
-  -Java
   
   
   
