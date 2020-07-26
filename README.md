@@ -34,7 +34,7 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
  
       Juli 2019: Schulabschluss (Abitur)
      
-          heute: Ausbildungssuchend
+          heute: Ausbildungssuchend im Bereich Informatik
 ```       
 
 
