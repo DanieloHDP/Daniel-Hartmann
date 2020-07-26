@@ -46,13 +46,15 @@ IT-Bereich:
 
 - Programmiersprache Arduino, zusammenbauen und programmieren eines selbstfahrenden Autos
 
+<img src="Bilder/Arduino.png" width= "140" align="right" > 
+
 - Unreal Engine, programmieren eigener Spiele (Jump and Run, RPG-Game)
 
 
 
 **Meine Interessen:**
 
-<img src="Bilder/Wandern.png" width= "180" align="right" >
+
 
  -Wandern
            
