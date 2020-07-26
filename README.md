@@ -35,6 +35,20 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
           heute: Ausbildungssuchend im Bereich Informatik
 ```       
 
+**Meine Qualifikationen**
+
+Ich habe seit meiner Schulzeit schon viel mit der Infomatik zu tun. In der 8 Klasse hab ich die Programmiersprache BASIC kennengelernt, weshalb ich in der Oberstufe das Wahlfach Informatik gewählt habe, wodurch ich die Programmiersprache Java 
+IT-Bereich:
+
+- Programmiersprache BASIC, erste Einblicke in den Möglichkeiten der Informatik
+
+- Programmiersprache Java, erstellen von eigenen Projekten
+
+- Programmiersprache Arduino, zusammenbauen und programmieren eines selbstfahrenden Autos
+
+- Unreal Engine, programmieren eigener Spiele (Jump and Run, RPG-Game)
+
+
 
 **Meine Interessen:**
 
