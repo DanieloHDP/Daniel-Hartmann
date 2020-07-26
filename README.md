@@ -55,7 +55,7 @@ Mail: [daniel_p_hartmann@web.de](http://mailto:daniel_p_hartmann@web.de)
 **Meine Interessen:**
 
 <p align="center">
-  <img width="100" height="35" src="Bilder/Wandern.png">
+  <img width="100" src="Bilder/Wandern.png">
 </p>
 
 ```
